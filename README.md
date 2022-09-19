@@ -1,5 +1,3 @@
-![MasterHead](https://www.ibm.com/content/dam/connectedassets-adobe-cms/worldwide-content/stock-assets/getty/image/others/e8/77/e8779470-2692-40b2-ba1ee2ece5ae11c1.component.xl.ts=1629061477152.jpg/content/adobe-cms/us/en/topics/cybersecurity/_jcr_content/root/leadspace)
-
 <h1 align="center">Hello World 👋, I'm Daniel Barcia</h1>
 <h3 align="center">Full stack developer for cross-platform apps and (ISC)² + Udemy Expert on CyberSecurity.</h3>
 
