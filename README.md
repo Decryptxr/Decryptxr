@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Barcia</h1>
-<h3 align="center">Full stack developer for cross-platform apps and (ISC)² + Udemy Expert on CyberSecurity licensed</h3>
+<h3 align="center">Full stack developer for cross-platform apps and (ISC)² + Udemy Expert on CyberSecurity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=decryptxr&label=Profile%20views&color=0e75b6&style=flat" alt="decryptxr" /> </p>
 
