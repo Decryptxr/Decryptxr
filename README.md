@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/decryptxrz" target="blank"><img src="https://img.shields.io/twitter/follow/decryptxrz?logo=twitter&style=for-the-badge" alt="decryptxrz" /></a> </p>
 
-- Actually improving **Hacking Techniques**
+💻 Actually improving **Hacking Techniques**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
