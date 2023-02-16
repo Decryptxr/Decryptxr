@@ -3,6 +3,8 @@
 
 <p align="center"><a href="https://www.credly.com/users/daniel-barcia/badges" target="blank"><img align="center" src="https://images.credly.com/size/680x680/images/3829db50-49a8-4f30-85c5-639ffc4a7b2f/image.png" alt="decryptxr" height="150" width="150" /></a>+       <a href="https://www.credly.com/users/daniel-barcia/badges" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1415324297304977411/p9kTpGac_400x400.png" alt="decryptxr" height="140" width="140" /></a></p>
 
+<h3 align="center">Actually interested in Machine Learning</h3>
+
 <h3 align="center">Ways to connect with me!</h3>
 <p align="center">
 <a href="https://twitter.com/decryptxrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="decryptxrz" height="30" width="40" /></a>
