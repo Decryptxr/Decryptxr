@@ -8,12 +8,12 @@
 <a href="https://twitter.com/decryptxrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="decryptxrz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/daniel (decryptxr) barcia santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel (decryptxr) barcia santos" height="30" width="40" /></a>
 <a href="https://fb.com/danielbarcia00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="danielbarcia00" height="30" width="40" /></a>
-<a href="https://discord.gg/Decryptxr#5379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fury Decryptxr#5379" height="30" width="40" /></a>
+<a href="https://discord.gg/Fury Decryptxr#5379" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fury Decryptxr#5379" height="30" width="40" /></a>
 </p>
 
 <hr />
 
-<h3 align="center">Programming languages</h3>
+<h3 align="center">Programming languages & Libraries</h3>
 <p align="center"> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
